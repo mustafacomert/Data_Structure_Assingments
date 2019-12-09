@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MaxLenSortedSublist/MaxLenSortedSublist.iml" filepath="$PROJECT_DIR$/../MaxLenSortedSublist/MaxLenSortedSublist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SatelliteData.iml" filepath="$PROJECT_DIR$/SatelliteData.iml" />
+    </modules>
+  </component>
+</project>
